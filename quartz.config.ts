@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "MiguelAguilera.github.io/solarpunk-wiki",
+    baseUrl: "solarpunk-wiki.maguilera.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

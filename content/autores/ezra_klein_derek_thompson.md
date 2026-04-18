@@ -27,12 +27,12 @@ Su diagnóstico —el socioliberalismo ha construido demasiados mecanismos de ve
 
 ### Distancias notables
 
-A diferencia de [[autores/jason_hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de Srnicek y Williams (*Inventing the Future*), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
+A diferencia de [[autores/jason_hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventing the Future]]), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
 
 ## Referencias cruzadas
 
 - [[obras/abundance|Abundance]] — obra principal en la wiki
-- [[conexiones/abundancia_tres_modelos|Abundancia: Tres Modelos en Tensión]] — su concepción de abundancia en contraste con Hickel y el solarpunk
+- [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — su concepción de abundancia en contraste con Hickel y el solarpunk
 
 ## Fuentes
 

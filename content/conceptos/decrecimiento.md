@@ -38,7 +38,7 @@ Kohei Saito (véase [[obras/less_is_more|Less Is More]]) intenta resolver esta t
 
 El punto débil más grave del decrecimiento como proyecto político: ausencia de teoría de quién lo hace, a través de qué formas organizativas, contra qué resistencias concretas. Las propuestas de [[obras/less_is_more|Less Is More]] oscilan entre tres estratos políticos con lógicas incompatibles (reformas socialdemócratas / reforma del orden global / horizontalismo indigenista) que no conecta mediante ninguna teoría de cómo uno habilita al siguiente.
 
-Los sindicatos y el concepto de Transición Justa —qué ocurre con los trabajadores de los sectores que hay que reducir— están conspicuamente ausentes en la literatura decrecentista mainstream. Srnicek y Williams (*Inventing the Future*, 2015) ofrecen el marco político que el decrecimiento necesita pero no ha elaborado.
+Los sindicatos y el concepto de Transición Justa —qué ocurre con los trabajadores de los sectores que hay que reducir— están conspicuamente ausentes en la literatura decrecentista mainstream. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventing the Future]], 2015) ofrecen el marco político que el decrecimiento necesita pero no ha elaborado.
 
 ### El problema del hedonismo
 
@@ -50,6 +50,12 @@ El decrecimiento enfrenta el mismo punto ciego que Anarres en [[obras/los_despos
 
 China es el mayor emisor mundial, el mayor instalador de renovables, el mayor fabricante global, y el país que ha sacado a más personas de la pobreza en la historia —precisamente la afirmación que el decrecimiento contesta. Cualquier análisis serio del decrecimiento tiene a China en el centro. La mayoría de la literatura decrecentista anglófona, incluido [[obras/less_is_more|Less Is More]], lo ignora. Esto revela los límites geopolíticos del marco: su imaginación política está acotada por el horizonte de las democracias ricas del Norte Global.
 
+### El exterminismo como horizonte del fracaso
+
+[[autores/peter_frase|Peter Frase]] en [[obras/cuatro_futuros|Cuatro Futuros]] nombra el escenario en que el decrecimiento no triunfa y la igualdad tampoco: **exterminismo**. Cuando la automatización vuelve económicamente superflua a la mayoría de la población y el cambio climático impone condiciones de escasez, las élites pueden simplemente prescindir de esa mayoría —recluirse en enclaves mientras las masas absorben los costes. El exterminismo no es una fantasía distópica sino la lógica del sistema llevada a su conclusión cuando no hay fuerza política que la interrumpa.
+
+Este escenario hace urgente la pregunta del agente: no solo "¿qué mundo queremos?" sino "¿qué impide el peor?"
+
 ### El Sur Global y el derecho al desarrollo
 
 ¿Qué ocurre con las aspiraciones de desarrollo del Sur Global? La posición decrecentista —que los países pobres no necesitan crecer, que necesitan redistribución y comunes— choca con las preferencias expresadas democráticamente de la mayoría de los gobiernos del Sur. Esta es una tensión no resuelta que la wiki marcará con [?] hasta que haya fuentes que la aborden directamente. [?]
@@ -58,7 +64,13 @@ China es el mayor emisor mundial, el mayor instalador de renovables, el mayor fa
 
 [[obras/abundance|Abundance]] (Klein y Thompson) representa la antítesis liberal del decrecimiento: el problema no es el crecimiento sino la incapacidad institucional de ejecutarlo limpiamente. Donde Hickel ve un límite estructural, Klein y Thompson ven un fallo de gestión. La diferencia no es técnica sino filosófica: ¿es la crisis ecológica un problema de *cómo* producimos o de *cuánto* producimos?
 
-La paradoja es que ambos libros comparten el mismo defecto político: ninguno tiene teoría del agente. Véase [[conexiones/abundancia_tres_modelos|Abundancia: Tres Modelos en Tensión]].
+La paradoja es que ambos libros comparten el mismo defecto político: ninguno tiene teoría del agente. Véase [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]].
+
+### Panga como el día después
+
+[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] aporta lo que ningún libro de no ficción de la wiki puede: la fenomenología del mundo al otro lado de la transición decrecentista. Panga resolvió sus problemas materiales —abandonó los fósiles, restauró los ecosistemas, organizó la sociedad en torno a la suficiencia. Y su personaje central, Dex, sigue insatisfeche.
+
+La ampliación es incómoda pero necesaria: la visión de Hickel, si se realizara, te dejaría exactamente en el problema de Dex. La sociedad buena y la vida plena no son la misma cosa. El decrecimiento puede resolver las condiciones materiales; no puede resolver la pregunta del sentido.
 
 ### Anarres como experimento mental decrecentista
 
@@ -67,7 +79,7 @@ La paradoja es que ambos libros comparten el mismo defecto político: ninguno ti
 ## Tensiones entre fuentes
 
 - **[[obras/less_is_more|Less Is More]] vs. [[obras/los_desposeidos|Los Desposeídos]]:** Hickel teoriza principios que Anarres practica; Le Guin es más honesta sobre sus costes afectivos y culturales.
-- **Decrecimiento vs. aceleracionismo:** Bastani (*Fully Automated Luxury Communism*) acepta la dialéctica marxista —el capitalismo construye las condiciones de su superación— mientras el decrecimiento quiere la condena sin la dialéctica. Limitaciones simétricas: Bastani más políticamente anclado, Hickel más biofísicamente serio.
+- **Decrecimiento vs. aceleracionismo:** [[autores/aaron_bastani|Bastani]] ([[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]]) acepta la dialéctica marxista —el capitalismo construye las condiciones de su superación— mientras el decrecimiento quiere la condena sin la dialéctica. Limitaciones simétricas: Bastani más políticamente anclado, Hickel más biofísicamente serio.
 
 ## Referencias cruzadas
 
@@ -76,6 +88,8 @@ La paradoja es que ambos libros comparten el mismo defecto político: ninguno ti
 - [[conceptos/comunes|Comunes]] — la propuesta institucional alternativa al mercado y al Estado
 - [[conceptos/acid_communism|Comunismo Ácido]] — el problema del hedonismo en la política decrecentista
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre la falta de deseo en Anarres y en el decrecimiento real
+- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — la antítesis aceleracionista: más tecnología, no menos metabolismo
+- [[obras/monje_y_robot|Monk & Robot]] — Panga como la fenomenología del día después; el desasosiego que persiste más allá de la transición
 
 ## Fuentes
 

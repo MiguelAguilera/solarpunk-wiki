@@ -38,6 +38,14 @@ Una sociedad revolucionaria que dura generaciones corre el riesgo de que su ener
 
 Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los Desposeídos]], es que su proyecto emancipador se organiza alrededor del trabajo, la solidaridad y el deber —no del deseo o el placer. Esto lo distingue de tradiciones como la situacionista o el comunismo ácido de Fisher, que reivindican el terreno afectivo como espacio político. Véase [[conceptos/acid_communism|Comunismo Ácido]] para el marco que reivindica el terreno afectivo.
 
+### La crítica de la folk politics
+
+[[autores/srnicek_williams|Srnicek y Williams]] en [[obras/inventar_el_futuro|Inventing the Future]] formulan la crítica más directa al anarquismo desde la izquierda no anarquista: la preferencia por lo pequeño, lo local, lo horizontal y lo espontáneo —lo que llaman **folk politics**— no puede desafiar el poder sistémico. La plataforma sin demandas, la asamblea sin estrategia hegemónica, la red sin partido: estas formas producen autenticidad política pero no transformación.
+
+Leído desde S/W, Anarres es la folk politics institucionalizada durante generaciones: produce una sociedad igualitaria en su propio territorio, pero sin estrategia para transformar Urras. El muro entre los dos mundos no es solo físico —es la ausencia de una política ofensiva capaz de construir hegemonía más allá de la comunidad que ya comparte los valores.
+
+La respuesta anarquista a esta crítica existe —la autonomía prefigurativa como práctica, no como evasión— pero la wiki no tiene aún fuentes que la desarrollen con rigor. [?]
+
 ### Referentes clásicos
 
 - **Kropotkin** — *El apoyo mutuo* (1902): la cooperación como motor evolutivo; base del anarquismo comunista
@@ -53,6 +61,7 @@ Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los D
 - [[obras/los_desposeidos|Los Desposeídos]] — la novela que trabaja el anarquismo como experimento concreto
 - [[conceptos/acid_communism|Comunismo Ácido]] — tradición que complementa (y critica) el anarquismo clásico desde el terreno del deseo
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión con el decrecimiento contemporáneo
+- [[obras/inventar_el_futuro|Inventing the Future]] — la crítica de la folk politics al horizontalismo anarquista
 
 ## Fuentes
 

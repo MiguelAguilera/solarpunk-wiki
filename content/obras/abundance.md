@@ -30,7 +30,7 @@ La tesis de fondo: la abundancia —entendida como capacidad de producir y despl
 
 ### Los límites estructurales del libro
 
-**Sin sujeto político.** No hay teoría del pueblo como agente. No hay movimientos sociales, movilización colectiva ni conflicto de intereses. El cambio ocurre dentro de instituciones, no mediante acción colectiva. Esto es la misma laguna que en [[obras/less_is_more|Less Is More]]: dos de los libros más influyentes del ecosistema progresista anglófono sobre el futuro económico comparten exactamente el mismo vacío. Véase [[conexiones/abundancia_tres_modelos|Abundancia: Tres Modelos en Tensión]].
+**Sin sujeto político.** No hay teoría del pueblo como agente. No hay movimientos sociales, movilización colectiva ni conflicto de intereses. El cambio ocurre dentro de instituciones, no mediante acción colectiva. Esto es la misma laguna que en [[obras/less_is_more|Less Is More]]: dos de los libros más influyentes del ecosistema progresista anglófono sobre el futuro económico comparten exactamente el mismo vacío. Véase [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]].
 
 **Tecnocracia.** La política se reduce a gestión institucional. El conflicto, la ideología y la participación desaparecen. Quién decide, cómo se construye legitimidad y qué intereses estructuran la economía son preguntas que el libro no formula.
 
@@ -42,12 +42,12 @@ La tesis de fondo: la abundancia —entendida como capacidad de producir y despl
 
 ### La abundancia como concepto: tres versiones en tensión
 
-El libro define abundancia como capacidad de producción técnica a gran escala. Esta definición choca con las otras dos que circulan en la wiki: la suficiencia de [[conceptos/decrecimiento|Decrecimiento]] (vivir bien con menos) y la abundancia vivida del solarpunk (riqueza relacional, estética, experiencia). Véase [[conexiones/abundancia_tres_modelos|Abundancia: Tres Modelos en Tensión]].
+El libro define abundancia como capacidad de producción técnica a gran escala. Esta definición choca con las otras dos que circulan en la wiki: la suficiencia de [[conceptos/decrecimiento|Decrecimiento]] (vivir bien con menos) y la abundancia vivida del solarpunk (riqueza relacional, estética, experiencia). Véase [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]].
 
 ## Referencias cruzadas
 
 - [[autores/ezra_klein_derek_thompson|Ezra Klein y Derek Thompson]] — contexto y posición política de los autores
-- [[conexiones/abundancia_tres_modelos|Abundancia: Tres Modelos en Tensión]] — el contraste entre las tres concepciones de abundancia en la wiki
+- [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — el contraste entre las tres concepciones de abundancia en la wiki
 - [[obras/less_is_more|Less Is More]] — comparte el defecto del agente ausente; antítesis en la concepción del horizonte deseable
 - [[conceptos/decrecimiento|Decrecimiento]] — el polo opuesto: la abundancia como problema, no como solución
 

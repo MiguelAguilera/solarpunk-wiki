@@ -68,6 +68,12 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 - ¿Qué habría cambiado en Anarres si el proyecto Odoniano hubiera incorporado el deseo como dimensión política?
 - ¿El punto ciego de Le Guin respecto al hedonismo es una limitación biográfica o una elección filosófica defendible desde el feminismo?
 
+### Anarres y Panga: las dos sociedades de suficiencia
+
+[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] es el texto que más directamente dialoga con *Los Desposeídos* en la wiki. Ambas son sociedades organizadas en torno a la suficiencia; sus diferencias son reveladoras:
+
+Anarres tiene conflicto político visible —la burocracia del PDT, la presión conformista, el caso Shevek— pero reprime el desasosiego existencial bajo el deber. Panga atenúa el conflicto hasta hacerlo casi invisible pero confronta el desasosiego directamente: Dex tiene todo lo que Anarres promete y sigue insatisfeche. Le Guin fue más honesta sobre el conflicto; Chambers es más honesta sobre el sentido. Juntas trazan el mapa completo de lo que una sociedad buena puede y no puede resolver.
+
 ## Referencias cruzadas
 
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — contexto biográfico e intelectual de la autora
@@ -75,6 +81,7 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 - [[conceptos/acid_communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
 - [[conceptos/decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
+- [[obras/monje_y_robot|Monk & Robot]] — Panga como contrapunto: más amable que Anarres, más honesta sobre el sentido
 
 ## Fuentes
 

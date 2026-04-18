@@ -3,7 +3,7 @@ title: "Comunismo Ácido"
 type: concepto
 date: 2026-04-18
 updated: 2026-04-18
-sources: [raw/ficcion/los_desposeidos_notas_Miguel.md]
+sources: [raw/ficcion/los_desposeidos_notas_Miguel.md, https://my-blackout.com/2019/04/25/mark-fisher-acid-communism-unfinished-introduction/, https://cajanegraeditora.com.ar/socialismo-psicodelico-primera-parte/]
 tags: [acid-communism, mark-fisher, deseo, placer, contracultura, izquierda, realismo-capitalista]
 ---
 
@@ -17,9 +17,13 @@ Concepto acuñado por Mark Fisher en un ensayo inacabado (publicado póstumament
 
 ### La tesis de Fisher
 
-Fisher argumentaba que la intersección de experiencia psicodélica, alegría colectiva, música y política de izquierda en los años sesenta apuntaba hacia algo genuinamente nuevo: la textura afectiva de la vida cotidiana como terreno político. El capitalismo aún no había colonizado completamente el deseo, la experiencia subjetiva, la conciencia.
+Fisher define el comunismo ácido como "la convergencia de la conciencia de clase, la conscienciación feminista-socialista y la conciencia psicodélica". No es solo una reivindicación del hedonismo, sino la tesis de que en los años sesenta estas tres corrientes convergieron brevemente hacia algo cualitativamente nuevo: la transformación de la textura afectiva de la vida cotidiana como terreno político. El capitalismo aún no había colonizado completamente el deseo, la experiencia subjetiva, la conciencia colectiva.
 
-La derrota de esa visión no vino principalmente de la represión —vino de la *recuperación*: el capital absorbió las formas de la contracultura (la estética, el lenguaje, la música) vaciándolas de contenido político. Lo que quedó fue una izquierda que había perdido ese terreno y se había refugiado en la austeridad moral como sustituto.
+Fisher argumenta, además, que el neoliberalismo no tenía como objetivo principal destruir el socialismo soviético —ese ya estaba en declive. Su objetivo real era destruir esta otra posibilidad: el "socialismo democrático y comunismo libertario" que florecía en los márgenes de las sociedades occidentales. El neoliberalismo como contrarevolución cultural antes que económica.
+
+Los casos históricos que invoca son deliberadamente heterogéneos: los **trabajadores de Lordstown** (1972), una generación nueva que rechazaba el autoritarismo fabril no solo en términos salariales sino cualitativos; **Bologna 1977**, un "avant-garde de masas" que combinaba teoría radical, cultura psicodélica y militancia obrera; y el **Chile de Allende**, cuyo golpe Fisher lee como el momento fundacional del realismo capitalista —la demostración de que el capital recurriría a la violencia directa antes de permitir que la alternativa prosperara.
+
+La derrota de esa visión no vino principalmente de la represión directa —vino de la *recuperación*: el capital absorbió las formas de la contracultura (la estética, el lenguaje, la música) vaciándolas de contenido político. Marcuse llamaba a esto la inversión del "Gran Rechazo": la negación racional del orden existente que el arte podía encarnar se convirtió en mercancía. Lo que quedó fue una izquierda que había perdido ese terreno y se había refugiado en la austeridad moral como sustituto.
 
 ### Genealogía intelectual
 
@@ -31,6 +35,16 @@ El comunismo ácido no surge de la nada. Fisher dialoga con:
 
 - **Los situacionistas** — el concepto de *recuperación* como mecanismo de neutralización cultural del potencial emancipador.
 
+### Jeremy Gilbert y el socialismo psicodélico
+
+Jeremy Gilbert ha desarrollado la propuesta de Fisher en *Socialismo Psicodélico* (Caja Negra), extendiendo el argumento hacia una teoría de la conciencia como terreno político.
+
+Gilbert distingue entre dos formas de ideología: como *propaganda* (contenidos que se nos imponen) y como proceso que nos *desempodera* —que nos hace sentir incapaces de actuar sobre nuestra situación. "Elevar la conciencia" es exactamente lo contrario: reconocer que los problemas "personales" son efectos de procesos sociales históricos, y sentirse con capacidad de responder. Esto conecta directamente la práctica feminista de la conscienciación con el proyecto del comunismo ácido.
+
+La contribución más original de Gilbert es el concepto de lo **supraterapeútico**: prácticas que van más allá de la reparación individual. Yoga, meditación, psicodelia —no como técnicas de bienestar personal sino como "tecnologías del no-yo", formas de disolver la ilusión del individuo soberano y acceder a potencialidades colectivas de la existencia humana. Un "misticismo materialista" sin creencias sobrenaturales que investiga qué puede hacer un cuerpo cuando no está organizado en torno al yo propietario.
+
+Gilbert conecta esto con el movimiento corbynista británico como ejemplo contemporáneo parcial —las plataformas organizativas innovaron, pero las prácticas democráticas internas del Partido Laborista no se transformaron en profundidad. La tensión que introduce: bajo el capitalismo, la mayoría vende demasiado tiempo laboral para poder dedicarse a prácticas que transformen genuinamente la conciencia. El problema del comunismo ácido no es solo cultural —es también político-económico.
+
 ### La izquierda y el abandono del deseo
 
 La consecuencia práctica de la tesis de Fisher: si la izquierda abandona el terreno del deseo y la experiencia subjetiva, lo entrega al capital. El capital vende libertad, placer, experiencia, identidad. Una política emancipadora que no puede competir en ese terreno —que solo ofrece deber, sacrificio y austeridad— no puede construir hegemonía cultural.
@@ -40,6 +54,8 @@ Leído desde Fisher, [[obras/los_desposeidos|Los Desposeídos]] muestra exactame
 ### Relevancia para el solarpunk y el decrecimiento
 
 El comunismo ácido es el marco que permite formular la pregunta más importante para el solarpunk contemporáneo: ¿puede ofrecer una visión del futuro que sea deseable además de justa? Véase [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]].
+
+Vale la pena notar que [[autores/aaron_bastani|Bastani]] llega a una conclusión paralela por una ruta diferente: [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] rechaza la austeridad de izquierda y reivindica el lujo como horizonte político. Pero donde Fisher trabaja la subjetividad y la conciencia, Bastani trabaja las fuerzas productivas. La pregunta que los separa: ¿puede la abundancia material resolver el problema afectivo que Fisher diagnóstica, o son terrenos distintos?
 
 ### Tensiones y limitaciones
 
@@ -57,3 +73,5 @@ El comunismo ácido es el marco que permite formular la pregunta más importante
 ## Fuentes
 
 - `raw/ficcion/los_desposeidos_notas_Miguel.md` — sección extensa sobre Fisher, Marcuse, Vaneigem y la conexión con Le Guin
+- [Mark Fisher, "Acid Communism" (introducción inacabada)](https://my-blackout.com/2019/04/25/mark-fisher-acid-communism-unfinished-introduction/) — texto fuente primario: definición del concepto, casos históricos, rol de Marcuse
+- [Jeremy Gilbert, "Socialismo Psicodélico" (Caja Negra)](https://cajanegraeditora.com.ar/socialismo-psicodelico-primera-parte/) — desarrollo contemporáneo: conciencia como terreno político, lo supraterapeútico, corbynismo ácido

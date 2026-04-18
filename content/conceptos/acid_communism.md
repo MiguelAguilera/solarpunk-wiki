@@ -57,6 +57,12 @@ El comunismo ácido es el marco que permite formular la pregunta más importante
 
 Vale la pena notar que [[autores/aaron_bastani|Bastani]] llega a una conclusión paralela por una ruta diferente: [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] rechaza la austeridad de izquierda y reivindica el lujo como horizonte político. Pero donde Fisher trabaja la subjetividad y la conciencia, Bastani trabaja las fuerzas productivas. La pregunta que los separa: ¿puede la abundancia material resolver el problema afectivo que Fisher diagnóstica, o son terrenos distintos?
 
+### Butler y el materialismo de la solidaridad
+
+[[autores/octavia_butler|Butler]] en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] ofrece una versión más brutal y más honesta del mismo problema que Fisher diagnostica. La hiperempatía de Lauren no es virtud cultivada ni elección política: es un accidente farmacológico —producto del mismo colapso que genera a los pirómanos. La solidaridad no viene de la conciencia política sino de condiciones materiales, y su forma depende de la disciplina práctica que se construye en torno a ella.
+
+Esto es el materialismo de la solidaridad que Fisher implica pero no formula: si la conciencia política no es una elección libre sino el producto de condiciones materiales y prácticas colectivas, entonces la pregunta de cómo se transforma esa conciencia es una pregunta sobre cómo se transforman esas condiciones y prácticas —no sobre cómo se persuade a la gente.
+
 ### Tensiones y limitaciones
 
 - El ensayo de Fisher es inacabado y fue publicado póstumamente, lo que limita la solidez de algunas de sus elaboraciones.
@@ -69,6 +75,7 @@ Vale la pena notar que [[autores/aaron_bastani|Bastani]] llega a una conclusión
 - [[conceptos/anarquismo|Anarquismo]] — tradición que el comunismo ácido complementa desde el terreno afectivo
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la aplicación de este marco al decrecimiento y el solarpunk
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — autora cuyo punto ciego el comunismo ácido permite nombrar
+- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — la hiperempatía como teoría materialista de la solidaridad
 
 ## Fuentes
 

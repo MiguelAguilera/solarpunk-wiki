@@ -66,6 +66,12 @@ Este escenario hace urgente la pregunta del agente: no solo "¿qué mundo querem
 
 La paradoja es que ambos libros comparten el mismo defecto político: ninguno tiene teoría del agente. Véase [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]].
 
+### Butler: el colapso como horizonte del fracaso institucional
+
+[[autores/octavia_butler|Butler]] en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] plantea el desafío más directo al programa decrecentista: ¿y si las instituciones se degradan más rápido de lo que se pueden reformar? El colapso que Butler describe —gradual, desigual, sin fecha de inicio— no es una catástrofe externa sino la lógica del sistema llevada a sus consecuencias. La brutalidad post-colapso no es nueva: es el orden anterior sin su capa administrativa.
+
+Si la tesis de Butler es correcta, el decrecimiento necesita no solo un programa político sino una teoría de cómo construir resiliencia comunitaria *mientras* las instituciones se degradan. Earthseed es una respuesta a esa pregunta — pero a escala micro, sin respuesta para el nivel macro. Véase [[conceptos/colapso|Colapso]].
+
 ### Panga como el día después
 
 [[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] aporta lo que ningún libro de no ficción de la wiki puede: la fenomenología del mundo al otro lado de la transición decrecentista. Panga resolvió sus problemas materiales —abandonó los fósiles, restauró los ecosistemas, organizó la sociedad en torno a la suficiencia. Y su personaje central, Dex, sigue insatisfeche.
@@ -90,6 +96,9 @@ La ampliación es incómoda pero necesaria: la visión de Hickel, si se realizar
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre la falta de deseo en Anarres y en el decrecimiento real
 - [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — la antítesis aceleracionista: más tecnología, no menos metabolismo
 - [[obras/monje_y_robot|Monk & Robot]] — Panga como la fenomenología del día después; el desasosiego que persiste más allá de la transición
+- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — la tesis del colapso como límite del programa reformista
+- [[conceptos/colapso|Colapso]] — el escenario en que las instituciones se degradan más rápido de lo que se pueden reformar
+- [[conceptos/politica_prefigurativa|Política prefigurativa]] — la respuesta micro al colapso; sus límites de escala
 
 ## Fuentes
 

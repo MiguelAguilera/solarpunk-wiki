@@ -68,6 +68,16 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 - ¿Qué habría cambiado en Anarres si el proyecto Odoniano hubiera incorporado el deseo como dimensión política?
 - ¿El punto ciego de Le Guin respecto al hedonismo es una limitación biográfica o una elección filosófica defendible desde el feminismo?
 
+### El tríptico de las comunidades intencionales
+
+[[obras/parabola_del_sembrador|La Parábola del Sembrador]] de [[autores/octavia_butler|Butler]] completa el tríptico que la wiki tiene sobre comunidades que intentan vivir según otros valores:
+
+- **Bellota (Butler)**: fundación cruda, pre-institucional. Las prácticas de supervivencia preceden a la ideología. Frágil ante la violencia organizada.
+- **Anarres (Le Guin)**: institucionalizada, empezando a calcificarse. La energía fundacional se ha convertido en burocracia y conformismo.
+- **Panga (Chambers)**: transición resuelta hace generaciones. El tejido ordinario de la vida ya es el mundo que se quería construir.
+
+Le Guin muestra el problema de la calcificación; Butler muestra el problema de la fragilidad; Chambers esquiva el problema de la transición. Juntas trazan el ciclo completo. Véase [[conceptos/politica_prefigurativa|Política prefigurativa]].
+
 ### Anarres y Panga: las dos sociedades de suficiencia
 
 [[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] es el texto que más directamente dialoga con *Los Desposeídos* en la wiki. Ambas son sociedades organizadas en torno a la suficiencia; sus diferencias son reveladoras:
@@ -82,6 +92,8 @@ Anarres tiene conflicto político visible —la burocracia del PDT, la presión 
 - [[conceptos/decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
 - [[obras/monje_y_robot|Monk & Robot]] — Panga como contrapunto: más amable que Anarres, más honesta sobre el sentido
+- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Bellota como el tercer punto del tríptico: fundación cruda antes de la institucionalización
+- [[conceptos/politica_prefigurativa|Política prefigurativa]] — el ciclo completo Bellota → Anarres → Panga
 
 ## Fuentes
 

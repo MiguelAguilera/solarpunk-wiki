@@ -5,6 +5,27 @@ type: registro
 
 # Registro de la Wiki
 
+## [2026-04-18] ingesta | La Parábola del Sembrador — Octavia E. Butler
+
+Páginas creadas a partir de `raw/ficcion/parabola_del_sembrador_notas_Miguel.md`:
+- `wiki/obras/parabola_del_sembrador.md`
+- `wiki/autores/octavia_butler.md`
+- `wiki/conceptos/politica_prefigurativa.md`
+- `wiki/conceptos/colapso.md`
+
+Páginas actualizadas:
+- `wiki/obras/los_desposeidos.md` — tríptico Bellota/Anarres/Panga; ciclo completo de la comunidad intencional
+- `wiki/obras/monje_y_robot.md` — Butler como tercer punto del tríptico; la pregunta que Panga no responde
+- `wiki/conceptos/anarquismo.md` — Butler como respuesta honesta a la folk politics; Bellota sin romanticismo
+- `wiki/conceptos/decrecimiento.md` — la tesis del colapso como límite del programa reformista
+- `wiki/conceptos/acid_communism.md` — hiperempatía como materialismo de la solidaridad
+- `wiki/obras/cuatro_futuros.md` — el mundo de Butler como exterminismo activo con bolsillos de resistencia
+- `wiki/obras/inventar_el_futuro.md` — Earthseed como base práctica que S/W necesitan; secuencia Butler → S/W
+
+Tensiones centrales registradas: la contradicción humana (inteligencia + jerarquía) como desafío a todo proyecto emancipador — ningún autor del club ha propuesto mecanismos permanentes de contención del impulso jerárquico. La transmisión práctica de Earthseed como alternativa micro a la hegemonía institucional, pero la fragilidad de Bellota confirma que la una necesita a la otra. El colapso como revelación del orden existente reformula la pregunta política: no solo cómo reformar el sistema sino cómo construir resiliencia mientras se degrada.
+
+---
+
 ## [2026-04-18] ingesta | Monk & Robot — Becky Chambers
 
 Páginas creadas a partir de `raw/ficcion/monje_y_robot_notas_Miguel.md`:

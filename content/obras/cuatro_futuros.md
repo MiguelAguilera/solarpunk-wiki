@@ -54,6 +54,7 @@ Esta crítica no invalida el programa de Bastani, pero sí señala que la lucha 
 - **vs. [[obras/inventar_el_futuro|Inventing the Future]]**: S/W tienen la estrategia hegemónica para navegar entre estos escenarios; Frase tiene el mapa. Son complementarios: el mapa sin estrategia es contemplación; la estrategia sin mapa es navegación ciega.
 - **vs. [[obras/los_desposeidos|Los Desposeídos]]**: Anarres vive en el cuadrante socialismo de Frase —escasez gestionada con igualdad. Le Guin muestra que ese cuadrante es alcanzable y sostenible durante generaciones, pero al precio afectivo que el marco de Frase no tematiza.
 - **vs. [[obras/monje_y_robot|Monk & Robot]]**: Panga también habita el cuadrante socialismo o comunismo [?], pero Chambers añade una dimensión que el mapa de Frase ignora por completo: incluso en el mejor cuadrante, la pregunta del sentido persiste. La matriz abundancia/igualdad es necesaria pero no suficiente para describir el buen vivir.
+- **vs. [[obras/parabola_del_sembrador|La Parábola del Sembrador]]**: El mundo de Butler *es* el exterminismo activo. Bellota es un bolsillo de resistencia que intenta construir socialismo desde dentro del peor cuadrante. Butler añade lo que el mapa de Frase no puede mostrar: cómo se vive el exterminismo desde abajo, y qué se puede construir dentro de él.
 
 ## Referencias cruzadas
 

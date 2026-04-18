@@ -44,7 +44,7 @@ Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los D
 
 Leído desde S/W, Anarres es la folk politics institucionalizada durante generaciones: produce una sociedad igualitaria en su propio territorio, pero sin estrategia para transformar Urras. El muro entre los dos mundos no es solo físico —es la ausencia de una política ofensiva capaz de construir hegemonía más allá de la comunidad que ya comparte los valores.
 
-La respuesta anarquista a esta crítica existe —la autonomía prefigurativa como práctica, no como evasión— pero la wiki no tiene aún fuentes que la desarrollen con rigor. [?]
+La respuesta anarquista a esta crítica existe —la autonomía prefigurativa como práctica, no como evasión— y [[autores/octavia_butler|Butler]] en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] la desarrolla de forma más honesta que casi ningún teórico: Bellota no es una evasión del poder sino una confrontación con él, que incluye armas, guardia nocturna y cálculos fríos sobre a quién se puede salvar. Pero la destrucción de Bellota por el fascismo organizado confirma la tesis de S/W: la prefiguración sin estrategia hegemónica es frágil. Véase [[conceptos/politica_prefigurativa|Política prefigurativa]].
 
 ### Referentes clásicos
 

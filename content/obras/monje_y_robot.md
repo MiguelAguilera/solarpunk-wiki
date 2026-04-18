@@ -45,6 +45,16 @@ La partida de los robots y la decisión humana de dejarlos ir son el acto fundac
 
 Cuando los robots adquieren consciencia, lo primero que hacen no es resistir ni negociar: se van. Y cuando vuelven —como Mosscap— lo hacen por curiosidad, no por utilidad. La consciencia, tanto en los robots de Chambers como en el análisis de la IA real, no conduce a la maximización de la productividad sino al desbordamiento relacional.
 
+### El tríptico de las comunidades intencionales
+
+[[obras/parabola_del_sembrador|La Parábola del Sembrador]] de [[autores/octavia_butler|Butler]] sitúa a Panga en perspectiva histórica. Las tres ficciones de suficiencia de la wiki muestran tres momentos del mismo proceso:
+
+- **Bellota (Butler)**: fundación cruda, bajo colapso activo, frágil ante la violencia organizada.
+- **Anarres (Le Guin)**: institucionalizada y calcificándose; la revolución convertida en cultura.
+- **Panga (Chambers)**: transición resuelta. El problema ya no es sobrevivir ni mantener las instituciones sino encontrar sentido dentro de la abundancia.
+
+Panga es el mundo que Bellota intenta construir sin saber si lo logrará. La pregunta que Butler hace a Chambers: ¿a qué precio, a través de qué conflictos, con qué violencias, se llegó a Panga? Véase [[conceptos/politica_prefigurativa|Política prefigurativa]].
+
 ### Problemas y límites
 
 **La transición ausente**: Chambers muestra Panga ya transformada. No hay narrativa de cómo se llegó ahí —quién resistió, quién perdió, qué conflictos atravesó la sociedad. Esto es coherente con su proyecto literario, pero deja un vacío político. Es el reverso exacto de [[obras/inventar_el_futuro|Inventing the Future]]: S/W tienen arquitectura política pero no fenomenología del mundo post-transición; Chambers tiene la textura pero no la estrategia. El libro que combina ambas cosas está todavía por escribir.

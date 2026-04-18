@@ -40,6 +40,12 @@ Estas demandas son deliberadamente amplias para poder articular coaliciones dive
 
 Recuperando a Gramsci y Laclau/Mouffe, S/W argumentan que la transformación política requiere construir un "sentido común" alternativo: no convencer a cada individuo sino reconfigurar lo que parece posible e inevitable. Esto requiere trabajo en múltiples frentes simultáneamente —cultural, institucional, organizativo, educativo— y una perspectiva de tiempo que la izquierda horizontalista habitualmente rechaza como "burocracia".
 
+### El complemento de Butler
+
+[[autores/octavia_butler|Butler]] en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] ofrece el mecanismo de transmisión ideológica que S/W necesitan pero no tienen: la gente adopta los principios de Earthseed no porque Lauren predique sino porque observa que sus decisiones funcionan. Gramsci + Bourdieu: la ideología como habitus que se transmite por proximidad a la competencia demostrada.
+
+Pero la destrucción de Bellota por el fascismo organizado confirma la tesis de S/W: la transmisión práctica no puede escalar sin eventualmente construir la infraestructura hegemónica que S/W proponen. Los dos modelos no son alternativos sino secuenciales: primero la base práctica de Butler, luego la superestructura institucional de S/W.
+
 ### El complemento de Chambers
 
 [[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] es el complemento fenomenológico que *Inventing the Future* necesita y no tiene. S/W diseñan la arquitectura para llegar al mundo post-transición; Chambers describe cómo se siente estar dentro. La ausencia de teoría de la transición en Chambers es exactamente el hueco que S/W llenan; la ausencia de textura vivida en S/W es exactamente el hueco que Chambers llena. El libro que combine ambos está todavía por escribir.
